@@ -1,0 +1,7 @@
+interface:
+  display_name: "期末复习资料生成器"
+  short_description: "把教材、课件和真题整理成有来源标注的期末复习资料包"
+  brand_color: "#D97757"
+  default_prompt: "使用 $exam-review-builder 根据我提供的教材和真题制作一套可溯源的期末复习资料。"
+policy:
+  allow_implicit_invocation: true
